@@ -13,8 +13,6 @@ import javax.servlet.annotation.WebServlet;
 @WebServlet("/")
 public class HelloWorld extends HttpServlet {
 
-	private static final long serialVersionUID = -3721191680245393618L;
-
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		response.setCharacterEncoding("UTF-8");
 		response.setContentType("text/plain");

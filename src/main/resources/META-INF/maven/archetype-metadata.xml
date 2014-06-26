@@ -28,5 +28,11 @@
 			</includes>
 		</fileSet>
 	</fileSets>
+	
+	<requiredProperties>
+		<requiredProperty key="jdkVersion">
+			<defaultValue>1.6</defaultValue>
+		</requiredProperty>
+	</requiredProperties>
 </archetype-descriptor>
 
