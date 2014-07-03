@@ -31,7 +31,7 @@
 	
 	<requiredProperties>
 		<requiredProperty key="jdkVersion">
-			<defaultValue>1.6</defaultValue>
+			<defaultValue>1.7</defaultValue>
 		</requiredProperty>
 	</requiredProperties>
 </archetype-descriptor>
